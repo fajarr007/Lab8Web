@@ -11,5 +11,4 @@ melalui XAMPP.<br>
 
 **Menjalankan MySQL Server**<br>
 Untuk menjalankan MySQL Server dari menu XAMPP Contol.<br>
-![p](gambar/pertama.png)<br>
-
+![p](gamabr/foto1.png)<br>
