@@ -36,6 +36,17 @@ Buka melalui browser untuk menguji koneksi database (untuk menyampilkan pesan ko
 **Membuat file index untuk menampilkan data (Read)**<br>
 Buat file baru dengan nama **index.php**<br>
 ![p](gamabr/foto8.png)<br>
+![p](gamabr/foto82.png)<br>
+
+**Menambah Data (Create)**<br>
+Buat file baru dengan nama **tambah.php**<br>
+![p](gamabr/foto9.png)<br>
+![p](gamabr/foto92.png)<br>
+![p](gamabr/foto93.png)<br>
+![p](gamabr/foto94.png)<br>
+
+
+
 
 
 
