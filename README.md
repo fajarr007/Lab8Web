@@ -13,4 +13,9 @@ melalui XAMPP.<br>
 Untuk menjalankan MySQL Server dari menu XAMPP Contol.<br>
 ![p](gamabr/foto1.png)<br>
 **Mengakses MySQL Client menggunakan PHP MyAdmin**
-Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melalui browser: *http://localhost/phpmyadmin/*
+Pastikan webserver Apache dan MySQL server sudah dijalankan. Kemudian buka melalui browser: *http://localhost/phpmyadmin/*<br>
+
+**Membuat Data Base**<br>
+![p](gamabr/foto2.png)<br>
+**Membuat Tabel**<br>
+![p](gamabr/foto3.png)<br>
