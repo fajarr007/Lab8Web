@@ -52,6 +52,12 @@ Buat file baru dengan nama **ubah.php**<br>
 ![p](gamabr/foto103.png)<br>
 ![p](gamabr/foto104.png)<br>
 
+**Menghapus Data (Delete)**<br>
+Buat file baru dengan nama **hapus.php**<br>
+![p](gamabr/foto11.png)<br>
+![p](gamabr/foto111.png)<br>
+
+
 
 
 
