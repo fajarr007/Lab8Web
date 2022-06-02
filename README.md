@@ -45,6 +45,17 @@ Buat file baru dengan nama **tambah.php**<br>
 ![p](gamabr/foto93.png)<br>
 ![p](gamabr/foto94.png)<br>
 
+**Mengubah Data (Update)**<br>
+Buat file baru dengan nama **ubah.php**<br>
+![p](gamabr/foto10.png)<br>
+![p](gamabr/foto102.png)<br>
+![p](gamabr/foto103.png)<br>
+![p](gamabr/foto104.png)<br>
+
+
+
+
+
 
 
 
